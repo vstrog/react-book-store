@@ -31,7 +31,7 @@ export const bookData = [
         id: 5,
         title: "PMP for everyone",
         img: "./img/pmp.jpg",
-        author: "Larry Page,
+        author: "Larry Page",
         info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum animi nulla rerum ad suscipit minus, dolore mollitia quibusdam ut beatae adipisci porro maiores, nam maxime unde deleniti officiis dolores! Illum?"
     },
     {
