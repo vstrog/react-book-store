@@ -15,7 +15,7 @@ export default function Navbar() {
                 </li>
                 <li className="nav-item">
                         <a href="/" className="nav-link">
-                                about
+                                add book
                         </a>
                 </li>
                 <li className="nav-item">
