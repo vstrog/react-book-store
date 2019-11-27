@@ -23,6 +23,11 @@ export default function Navbar() {
                                 books
                         </a>
                 </li>
+                <li className="nav-item">
+                        <a href="/" className="nav-link">
+                                Cart
+                        </a>
+                </li>
         </ul>
 </nav>
         );
