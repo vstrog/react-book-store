@@ -25,6 +25,7 @@ export default function Navbar() {
                 </li>
                 <li className="nav-item">
                         <a href="/" className="nav-link">
+                        <i class="fas fa-shopping-cart"></i>
                                 Cart
                         </a>
                 </li>
